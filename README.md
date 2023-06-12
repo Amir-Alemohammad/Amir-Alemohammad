@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amir-Alemohammad](https://github.com/Amir-Alemohammad)
 
-- 💬 Ask me about **Javascript,Typescript,Nodejs,Express**
+- 💬 Ask me about **Javascript , Typescript , Nodejs , Express**
 
 - 📫 How to reach me **Email:amirho3inalemohammad@gmail.com**
 
