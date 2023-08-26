@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript , Typescript , Nestjs , Nodejs , Express**
 
-- 📫 How to reach me **Email:amirho3inalemohammad@gmail.com**
+- 📫 How to reach me **Email: amirho3inalemohammad@gmail.com**
 
 - ⚡ Fun fact: **I Love Bugs**
 
