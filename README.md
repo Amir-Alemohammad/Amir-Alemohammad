@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Amir Hossein Alemohammad</h1>
+
 <h3 align="center">A passionate, creative, responsible Back-end developer.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/amiralemohammad" target="blank"><img src="https://img.shields.io/twitter/follow/amiralemohammad?logo=twitter&style=for-the-badge" alt="amiralemohammad" /></a> </p>
 
 - 🔭 I’m currently working on **Simple Open-Source Scripts and tools**
 
+- 🌱 I’m currently learning **Nestjs**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Amir-Alemohammad](https://github.com/Amir-Alemohammad)
 
-- 💬 Ask me about **Javascript,Typescript,Nodejs,Express,Nestjs**
+- 💬 Ask me about **Javascript,Typescript,Nodejs,Express**
 
 - 📫 How to reach me **Email:amirho3inalemohammad@gmail.com Telegram:@Amir_Alemohammad**
 
