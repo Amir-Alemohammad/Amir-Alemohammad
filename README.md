@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Simple Open-Source Scripts and tools**
 
-- 🌱 I’m currently learning **Nestjs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Amir-Alemohammad](https://github.com/Amir-Alemohammad)
 
 - 💬 Ask me about **Javascript,Typescript,Nodejs,Express**
