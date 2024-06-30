@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript,Typescript,Nodejs,Nestjs,Express**
 
-- 📫 How to reach me **Email:amirho3inalemohammad@gmail.com Telegram: <a href="https://telegram.me/Amir_Alemohammad" target="_blank"/> **
+- 📫 How to reach me **Email:amirho3inalemohammad@gmail.com ** Telegram: <a href="https://telegram.me/Amir_Alemohammad" target="_blank"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
