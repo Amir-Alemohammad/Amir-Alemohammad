@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/amiralemohammad" target="blank"><img src="https://img.shields.io/twitter/follow/amiralemohammad?logo=twitter&style=for-the-badge" alt="amiralemohammad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amiralemohammad" target="_blank"><img src="https://img.shields.io/twitter/follow/amiralemohammad?logo=twitter&style=for-the-badge" alt="amiralemohammad" /></a> </p>
 
 - 🔭 I’m currently working on **Simple Open-Source Scripts and tools**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript,Typescript,Nodejs,Nestjs,Express**
 
-- 📫 How to reach me **Email:amirho3inalemohammad@gmail.com** Telegram: <p><a href="https://telegram.me/Amir_Alemohammad" target="_blank"></p>
+- 📫 How to reach me **Email:amirho3inalemohammad@gmail.com** Telegram: <a href="https://telegram.me/Amir_Alemohammad" target="_blank">Amir_Alemohammad</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
